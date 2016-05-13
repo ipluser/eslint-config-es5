@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-es5",
+  "version": "0.5.0",
+  "description": "An Javascript ES5 ESLint config that following Airbnb ES5 Style Guide",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ipluser/eslint-config-es5.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "javascript",
+    "es5"
+  ],
+  "devDependencies": {
+    "eslint": "^2.8.0"
+  },
+  "author": "ipluser",
+  "license": "MIT"
+}
