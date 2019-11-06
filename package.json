@@ -19,7 +19,7 @@
     "es5"
   ],
   "devDependencies": {
-    "eslint": "^2.8.0"
+    "eslint": "^6.6.0"
   },
   "author": "ipluser",
   "license": "MIT"
